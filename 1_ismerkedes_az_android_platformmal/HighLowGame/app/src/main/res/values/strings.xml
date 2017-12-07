@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HighLowGame</string>
+    <string name="text_win">NYERTÉL!</string>
+</resources>
