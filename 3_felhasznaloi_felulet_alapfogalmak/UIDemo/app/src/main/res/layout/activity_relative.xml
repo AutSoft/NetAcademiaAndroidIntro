@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="hu.netacademia.uidemo.RelativeActivity">
+
+    <Button
+        android:id="@+id/centerButton"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        android:text="GOMB"
+        style="@style/LargeRedText" />
+
+
+    <Button
+        android:id="@+id/secondButton"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        style="@style/RedStyle.RedAndWhite"
+        android:layout_below="@id/centerButton"
+        android:layout_toRightOf="@id/centerButton"
+        android:text="Kettes" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/secondButton">
+
+        <hu.netacademia.uidemo.view.PasswordEditText
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content">
+
+        </hu.netacademia.uidemo.view.PasswordEditText>
+    </LinearLayout>
+
+
+</RelativeLayout>

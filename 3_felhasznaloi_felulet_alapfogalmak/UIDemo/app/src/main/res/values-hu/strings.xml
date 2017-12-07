@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UIDemo</string>
+    <string name="first_button">Első</string>
+    <string name="second_button">Második</string>
+</resources>

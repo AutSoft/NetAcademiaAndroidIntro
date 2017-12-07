@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <!-- Base application theme. -->
+    <style name="GreenTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#3d893d</item>
+        <item name="colorPrimaryDark">#236c23</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:background">#a1dea1</item>
+    </style>
+
+    <style name="RedStyle">
+        <item name="android:background">#FF0000</item>
+        <item name="android:layout_margin">16dp</item>
+    </style>
+
+
+    <style name="RedStyle.RedAndWhite">
+        <item name="android:textColor">#FFFFFF</item>
+
+    </style>
+
+    <style name="LargeRedText">
+        <item name="android:textColor">#FF0000</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+
+</resources>
