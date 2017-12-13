@@ -21,3 +21,9 @@ Az elkészített alkalmazás [itt](/2_android_alkalmazas_komponensek/ActivityLif
 _Bemutatjuk a felhasználói felület építőelemeit kitérve az elrendezésekre és az egyedi nézetekre. Ismertetjük a stílusok és témák használatát, valamint az animációk készítésének lehetőségét._
 
 Az elkészített alkalmazás [itt](/3_felhasznaloi_felulet_alapfogalmak/UIDemo) található.
+
+## 4. További felhasználói felületi megoldások
+
+_Egy látványos alkalmazás összetett menüket, dialógusokat is tartalmaz, valamint dinamikus listákat, melyekre minden alkalmazásban szükség van. Elkezdjük egy nagyobb alkalmazás fejlesztését, melyet több lépésben tovább fejlesztünk._
+
+Az elkezdett alkalmazás kódja [itt](/4_tovabbi_felhasznaloi_feluleti_megoldasok/TodoApp) található.

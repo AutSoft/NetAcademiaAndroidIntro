@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Teendők</string>
+    <string name="btn_animation">Animáció</string>
+    <string name="btn_popup">Felugró ablak</string>
+    <string name="popup_close">Bezárás</string>
+    <string name="menu_anim">Animáció</string>
+    <string name="menu_popup">Felugró ablak</string>
+    <string name="remove_all_menu">Összes törlése</string>
+</resources>
