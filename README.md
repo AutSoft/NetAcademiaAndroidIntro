@@ -27,3 +27,15 @@ Az elkészített alkalmazás [itt](/3_felhasznaloi_felulet_alapfogalmak/UIDemo) 
 _Egy látványos alkalmazás összetett menüket, dialógusokat is tartalmaz, valamint dinamikus listákat, melyekre minden alkalmazásban szükség van. Elkezdjük egy nagyobb alkalmazás fejlesztését, melyet több lépésben tovább fejlesztünk._
 
 Az elkezdett alkalmazás kódja [itt](/4_tovabbi_felhasznaloi_feluleti_megoldasok/TodoApp) található.
+
+## 5. Perzisztens adattárolás
+
+_Minden mobil alkalmazásban kulcs kérdés, hogy az adatokat elmentsük hatékonyan hogy azok később is elérhetőek legyenek. Megmutatjuk a perzisztens adattárolási lehetőségeket és kiegészítjük az előző alkalmazást perzisztens tárolással._
+
+A kiegészített alkalmazás kódja [itt](/5_perzisztens_adattarolas/TodoApp) található.
+
+## 6. Komponensek közti kommunikáció, adattárolás a felhőben
+
+_Nagyobb alkalmazások esetén elengedhetetlen, hogy a komponensek tudjanak egymással kommunikálni, így újra felhasználható modulokat készíthetünk. Továbbá bemutatjuk, hogyan használható a felhő adattárolásra, melynek segítségével a felhasználók közös adatokon tudnak dolgozni (Firebase)._
+
+Az alkalmazás kódja végleges formájában [itt](/6_komponensek_kozotti_kommunikacio_adattarolas_a_felhoben/TodoApp) érhető el.
